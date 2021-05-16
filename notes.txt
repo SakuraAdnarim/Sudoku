@@ -1,0 +1,4 @@
+Sudoku
+genetic algarithm
+I honestly don't know where to start or what I'm doing 
+And yet I'm supposed to have something to show by next week
